@@ -1,0 +1,79 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+*{
+    background-color: #120c5c;
+}
+
+#perfil-card-1{
+
+position: relative;
+width: 358px;
+height: 301px;
+left: 55px;
+top: 105px;
+
+background-color: #4C37CD;
+border-radius: 30px;
+}
+
+#perfil-card-1 p:first-child {
+    position: relative;
+    width: 559px;
+    left: 40px;
+    top: 170px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: white; 
+  }
+#perfil-card-1 p{
+   
+    position: relative;
+    width: 79px;
+
+    left: 40px;
+    top: 170px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: white; 
+    background-color: rgba(255, 255, 255, 0);
+}
+
+#img-perfil{
+
+    position: relative;
+    left: 40px;
+    right: 74.65%;
+    bottom: 45px;
+    background-color: rgba(255, 255, 255, 0);
+    
+    }
+
+#perfil-card-2{
+    
+    position: relative;
+    width: 258px;
+    height: 186px;
+    left: 255px;
+    top: 20px;
+    background: #171341;
+}
+
+#perfil-card-2 p{
+width: 258px;
+height: 186px;
+left: 255px;
+top: 533px;
+color: aqua;
+
+}
+
